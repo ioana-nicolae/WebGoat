@@ -1,4 +1,6 @@
 {
   "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
-  "enableSAST":true
+    "scanSettings": {
+       "enableSAST":true
+     }
 }
